@@ -1,5 +1,5 @@
 public class Calculator {
     public void test(){
-        System.out.println("Test");
+        System.out.println("Привет");
     }
 }
